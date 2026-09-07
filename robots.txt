@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /api/
 
-Sitemap: https://https://concertnearme.vercel.app//sitemap.xml
+Sitemap: https://concertnearme.vercel.app/sitemap.xml
